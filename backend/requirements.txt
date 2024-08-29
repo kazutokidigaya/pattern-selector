@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+tensorflow
+numpy
+opencv-python
+Pillow
+pandas
+torch>=1.10.0
+torchvision
+requests
+pyyaml
+tqdm
+scipy
+pillow
